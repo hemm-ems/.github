@@ -37,3 +37,5 @@ to build code efficiently and trustworthily (I learn something every day).
   are checked against the system that actually runs them.
 
 <!-- discussed-on placeholder: add HN / article links here once there's a real one -->
+
+Built by [Jan Kipping](https://kipp.ing), embedded and automotive software engineer.
